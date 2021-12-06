@@ -1,8 +1,7 @@
 ---
 title: Publications
-layout: default
+layout: publications
 permalink: /publications/
 published: true
 ---
 
-{% bibliography %}
