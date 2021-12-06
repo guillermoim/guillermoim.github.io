@@ -41,12 +41,6 @@ compress_html:
   profile: false
   startings: []
 
-#collection
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
 sass:
   sass_dir: /assets/css/_sass
   style: compressed
