@@ -5,4 +5,4 @@ permalink: /publications/
 published: true
 ---
 
-[https://arxiv.org/abs/2106.15380](Globally Optimal)
+[Globally Optimal Hierarchical Reinforcement Learning with Linearly-Solvable Markov Decision Processes](https://arxiv.org/abs/2106.15380)
