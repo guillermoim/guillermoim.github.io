@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: ""
+permalink: /
 profile:
   align: center
   image: profile.png
