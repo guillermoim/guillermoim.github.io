@@ -16,4 +16,6 @@ published: true
 
 ## Workshop papers
 
-* Infante, G., Jonsson, A., & Gómez, V. (2023) Optimal Hierarchical Average-Reward Linearly-solvable Markov Decision Processes. *In Sixteenth European Workshop on Reinforcement Learning.* (EWRL) [PDF](https://drive.google.com/file/d/1-VDzH8iAUr4DUSiwBIbuj-Rblp7X6pzx/view)
+* Infante, G., Jonsson, A., & Gómez, V. (2023) Optimal Hierarchical Average-Reward Linearly-solvable Markov Decision Processes. *In Sixteenth European Workshop on Reinforcement Learning (EWRL).* [PDF](https://drive.google.com/file/d/1-VDzH8iAUr4DUSiwBIbuj-Rblp7X6pzx/view)
+
+* Infante, G., Kuric, D., Gómez, V., Jonsson, A. and van Hoof, H. (2024). Using a Learned Policy Basis to Optimally Solve Reward Machines, *In Sixteenth European Workshop on Reinforcement Learning (EWRL).*
